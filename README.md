@@ -1,2 +1,2 @@
 # blog-worldskills
-College homework
+College homework, nothing important here...
